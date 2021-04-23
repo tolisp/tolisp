@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tolisp
 - 👀 I want to go to the moon
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel, not expert yet
 
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tolisp
-- 👀 I want to go to the moon
-- 🌱 I’m currently learning Laravel, not expert yet
+- 🌱 I’m involved in web accessibility and the open source community
+- i hate all javascript front end frameworks
 
 
 <!---
